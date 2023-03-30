@@ -33,6 +33,6 @@ Mantener las mayúsculas y minúsculas del mensaje, así como los saltos de line
 >Low-level programming is good for the programmer's soul.<br>
 >The game designer shouldn't be making a world in which the player is just a small part. The player IS THE BOSS; it's your duty to entertain him or her. <br>
 >Focus is a matter of deciding what things you are not going to do.<br>
->The cost of adding a feature isn't just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the >features that don't fight each other. - John Carmack.
+>The cost of adding a feature isn't just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don't fight each other. - John Carmack.
 >
 >(www.gamasutra.com/view/news/234346?vpyumdluc)<br>(www.brainyquote.com/quotes/authors/j/john_carmack.html)
